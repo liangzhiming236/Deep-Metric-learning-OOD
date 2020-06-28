@@ -19,16 +19,10 @@ This repository contains the code and trained models for our paper Out-of-Distri
 
 ### Usage
 
-- Training
+- Training and test
 
   ```
-  python train.py
-  ```
-
-- Test
-
-  ```shell
-  python test.py
+  python main.py
   ```
 
 ### Citation
